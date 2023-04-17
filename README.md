@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## I'm Roberto Trejo
+
+
+- 🔭 I’m currently working on Neoris like Android Developer for CEMEX
+- 🌱 I’m currently learning:
+  - Android Compose
+  - Node.js
+  - AWS
+- 👯 I’m looking to collaborate on projects that solve common problems that everybody has in a easy and funny way as possible.
+
 <!--
 **robertdroid/robertdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
