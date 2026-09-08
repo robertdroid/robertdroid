@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on Neoris like Android Developer
+- 🔭 I’m currently working on Arkano like Android Developer at Yape
 - 🌱 I’m currently learning:
   - Android Compose
   - Node.js
